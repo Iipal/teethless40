@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC Part #
+"22pF Unpolarized capacitor, small symbol","C1,C2",C_0805_2012Metric,C472837
+"1uF Unpolarized capacitor, small symbol",C3,C_0805_2012Metric,C116352
+"0.1uF Unpolarized capacitor, small symbol","C4,C5,C6",C_0805_2012Metric,C38141
+"10uF Unpolarized capacitor, small symbol",C7,C_0805_2012Metric,C90545
+"D_Small Diode, small symbol","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50",D_SOD-123,C77978
+"500mA Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,JK-nSMD050-24_F1206_,C369160
+"22 Resistor, small symbol","R1,R2",R_0805_2012Metric,C413152
+"10k Resistor, small symbol",R3,R_0805_2012Metric,C191101
+"5.1K Resistor, small symbol","R4,R5",R_0805_2012Metric,C413290
+ATMEGA32U4-MU ,U1,QFN50P700X700X100-45N,C112161
+HRO-TYPE-C-31-M-12 ,USB1,HRO-TYPE-C-31-M-12-Assembly,C165948
+"16MHz Four pin crystal, GND on pins 2 and 4, small symbol",Y1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,C258942

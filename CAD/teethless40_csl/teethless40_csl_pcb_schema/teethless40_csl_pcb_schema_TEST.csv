@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #
+"22pF Unpolarized capacitor, small symbol","C1,C2",C_0805_2012Metric,
+"1uF Unpolarized capacitor, small symbol",C3,C_0805_2012Metric,
+"0.1uF Unpolarized capacitor, small symbol","C4,C5,C6",C_0805_2012Metric,
+"10uF Unpolarized capacitor, small symbol",C7,C_0805_2012Metric,
+"D_Small Diode, small symbol","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50",D_SOD-123,
+"500mA Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_1206_3216Metric,
+AVR-ISP-6 Atmel 6-pin ISP connector,J1,AVR_ICSP_3x2,
+Kailh HotSwap Socket ,"MX1,MX2,MX3,MX4,MX5,MX6,MX7,MX8,MX9,MX10,MX11,MX12,MX13,MX15,MX16,MX17,MX18,MX19,MX20,MX21,MX22,MX23,MX24,MX25,MX28,MX29,MX30,MX31,MX32,MX33,MX34,MX35,MX36,MX37,MX40,MX42,MX43,MX45,MX47,MX50,MX51,MX54",SW_MX_HS_1u,C5156480
+Kailh HotSwap Socket ,"MX14,MX26",SW_MX_HS_1.5u,C5156480
+Kailh HotSwap Socket ,"MX27,MX38",SW_MX_HS_1.75u,C5156480
+Kailh HotSwap Socket ,"MX39,MX41,MX44,MX46,MX48,MX49,MX52,MX53",SW_MX_HS_1.25u,C5156480
+"22 Resistor, small symbol","R1,R2",R_0805_2012Metric,
+"10k Resistor, small symbol",R3,R_0805_2012Metric,
+"5.1K Resistor, small symbol","R4,R5",R_0805_2012Metric,
+"ATmega32U4-A 16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",U1,TQFP-44_10x10mm_P0.8mm,
+HRO-TYPE-C-31-M-12 ,USB1,HRO-TYPE-C-31-M-12-Assembly,
+"16MHz Four pin crystal, GND on pins 2 and 4, small symbol",Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,
