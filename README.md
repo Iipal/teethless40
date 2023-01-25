@@ -5,6 +5,6 @@
 
 # Layout
 
-_40% Column-Staggered Symetrical Split-Layout with Encoders Support_
+_40% Column-Staggered Symetrical Split-Layout_
 
 ![](Layouts/imgs/v4.png)
